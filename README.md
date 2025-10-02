@@ -1,11 +1,8 @@
-📖 Address Book Project
-📌 Overview
+**Overview**
 
-The Address Book Project is a simple contact management system that allows users to store, search, update, and delete contact information. It provides an easy way to organize and retrieve details like name, phone number, email, and address.
+The Address Book Project is a simple contact management system that allows users to store, search, update, and delete contact information. It provides an easy way to organize and retrieve details like name, phone number, email, and address. This project is designed as a beginner-friendly implementation to understand file handling, data structures, and CRUD (Create, Read, Update, Delete) operations.
 
-This project is designed as a beginner-friendly implementation to understand file handling, data structures, and CRUD (Create, Read, Update, Delete) operations.
-
-🚀 Features
+**Features**
 
 ➕ Add Contact – Save a new contact with name, phone number, email, and address.
 
@@ -19,18 +16,8 @@ This project is designed as a beginner-friendly implementation to understand fil
 
 💾 File Handling Support – Contacts are stored in a file (persistent storage).
 
-🛠️ Tech Stack
+**Technology**
 
-Language: C / C++ / Python (choose based on your project)
-
-Storage: Text File / Binary File (for persistence)
-
-Concepts Used:
-
-Structures / Classes
-
-File Handling
-
-String Handling
-
-Basic Menu-Driven Program
+Language: C /
+Storage: Text File 
+Concepts Used: Structures, File Handling, String Handling, Basic Menu-Driven Program
